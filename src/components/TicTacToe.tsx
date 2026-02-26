@@ -81,7 +81,7 @@ const TicTacToe = () => {
       <header className="game-header">
         <div className="header-content">
           <div className="home-icon">
-            <img src="/favicon.svg" alt="Tic-Tac-Toe" />
+            <img src="/tictactoe-icon.svg" alt="Tic-Tac-Toe" />
           </div>
           
           <div className="header-title-section">

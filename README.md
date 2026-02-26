@@ -8,7 +8,7 @@
 
 **An intelligent Tic-Tac-Toe game featuring an unbeatable AI powered by the MinMax algorithm**
 
-[Live Demo](https://rikampalkar.github.io/TicTacToe) • [Report Bug](https://github.com/RikamPalkar/TicTacToe/issues) • [Request Feature](https://github.com/RikamPalkar/TicTacToe/issues)
+[Live Demo](https://rikampalkar.github.io/tictactoe) • [Report Bug](https://github.com/RikamPalkar/rikampalkar.github.io.TicTacToe/issues) • [Request Feature](https://github.com/RikamPalkar/rikampalkar.github.io.TicTacToe/issues)
 
 </div>
 
@@ -164,8 +164,8 @@ The MinMax algorithm is used in:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/RikamPalkar/TicTacToe.git
-cd TicTacToe
+git clone https://github.com/RikamPalkar/rikampalkar.github.io.TicTacToe.git
+cd rikampalkar.github.io.TicTacToe
 ```
 
 2. **Install dependencies**
@@ -193,6 +193,9 @@ The optimized build will be generated in the `dist` folder.
 ```bash
 npm run preview
 ```
+
+---
+> **Deployment**: See [DEPLOYMENT.md](DEPLOYMENT.md) for deployment instructions.
 
 ---
 
@@ -266,7 +269,7 @@ Want to learn more about the MinMax algorithm and game AI? Check out these resou
 ### My Content
 - 📝 [Detailed Blog Post](https://levelup.gitconnected.com/step-by-step-guide-to-develop-tic-tac-toe-ai-with-blazor-b11c194aac6b) - Step-by-step guide with code examples
 - 🎥 [Video Tutorial](https://youtu.be/r_-Z6Zk4Hko?si=lFUh0A-_Oi-Bxwn3) - Watch me build this from scratch
-- 💻 [Source Code](https://github.com/RikamPalkar/TicTacToe) - This repository
+- 💻 [Source Code](https://github.com/RikamPalkar/rikampalkar.github.io.TicTacToe) - This repository
 
 ### Additional Resources
 - [Game Theory Basics](https://en.wikipedia.org/wiki/Game_theory)
@@ -295,7 +298,7 @@ Feel free to:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/RikamPalkar/TicTacToe/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/RikamPalkar/rikampalkar.github.io.TicTacToe/issues).
 
 ### How to Contribute
 
