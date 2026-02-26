@@ -170,34 +170,184 @@ cd TicTacToe
 
 2. **Install dependencies**
 ```bash
+npm install
+```
+
+3. **Run the development server**
+```bash
+npm run dev
+```
+
+4. **Open your browser** and navigate to `http://localhost:5173`
+
+### Building for Production
+
+```bash
 npm run build
 ```
 
-The production-ready files will be in the `dist` folder.
+The optimized build will be generated in the `dist` folder.
 
-## How It Works
+### Preview Production Build
 
-The AI uses the **MinMax Algorithm**, a recursive algorithm that:
-1. Evaluates all possible game states
-2. Assumes the opponent plays optimally
-3. Chooses the move that maximizes the AI's chance of winning
-4. Makes the game nearly impossible to beat!
+```bash
+npm run preview
+```
 
-## Technologies Used
+---
 
-- **React** - UI framework
-- **TypeScript** - Type-safe JavaScript
-- **Vite** - Build tool and dev server
-- **CSS3** - Styling with modern features
+## 👨‍💻 About the Developer
 
-## Author
+<div align="center">
+<img src="public/rikam-icon.svg" alt="Rikam Palkar" width="150" height="150" style="border-radius: 50%;">
 
-**Rikam Palkar** - Microsoft MVP
+### Rikam Palkar
 
-- Website: [rikampalkar.github.io](https://rikampalkar.github.io)
-- LinkedIn: [linkedin.com/in/rikampalkar](https://www.linkedin.com/in/rikampalkar/)
-- Article: [Step-by-Step Guide on Medium](https://levelup.gitconnected.com/step-by-step-guide-to-develop-tic-tac-toe-ai-with-blazor-b11c194aac6b)
+**Microsoft MVP | Software Engineer | Technical Writer | Speaker**
 
-## License
+</div>
 
-MIT License - feel free to use this project for learning and personal projects!
+I'm Rikam Palkar, a passionate software engineer and technology enthusiast with a deep love for artificial intelligence, algorithms, and creating elegant solutions to complex problems. This project represents my exploration of game theory and AI decision-making algorithms.
+
+### 🏆 Achievements & Recognition
+
+#### Microsoft MVP (Most Valuable Professional)
+- **Category**: Developer Technologies
+- Recognized by Microsoft for exceptional technical community leadership and contributions
+- Part of an elite global community of technology experts
+
+#### Published Author
+- **Platform**: Amazon KDP
+- Published technical books helping developers learn and grow
+- [View Books on Amazon](https://amzn.eu/d/bJZtOPK)
+
+#### Technical Writing
+- **Medium**: Regular contributor with articles on software development, AI, and algorithms
+- **C# Corner**: Technical articles and tutorials
+- **Level Up Coding**: Advanced programming concepts and guides
+- Thousands of readers across multiple platforms
+
+#### Open Source Contributions
+- Active contributor on GitHub
+- Created multiple educational projects and tools
+- Focused on making complex concepts accessible
+
+#### Speaking Engagements
+- Technical speaker at developer communities
+- YouTube channel with programming tutorials
+- Mentoring aspiring developers
+
+### 💡 Areas of Expertise
+
+- **Languages**: TypeScript, JavaScript, C#, Python
+- **Frameworks**: React, .NET, Blazor, Node.js
+- **Specializations**: Algorithms, AI, Game Theory, Web Development
+- **Cloud**: Azure, Cloud Architecture
+- **Tools**: Git, VS Code, Visual Studio
+
+### 📚 Featured Content
+
+#### Articles & Tutorials
+- [Step-by-Step Guide: Develop Tic-Tac-Toe AI with Blazor](https://levelup.gitconnected.com/step-by-step-guide-to-develop-tic-tac-toe-ai-with-blazor-b11c194aac6b) - Comprehensive guide to building AI-powered games
+- Articles on Medium covering software architecture, algorithms, and best practices
+- C# Corner contributions on .NET and modern web development
+
+#### Video Content
+- [Tic-Tac-Toe AI Implementation Tutorial](https://youtu.be/r_-Z6Zk4Hko?si=lFUh0A-_Oi-Bxwn3) - Watch the step-by-step implementation
+- Programming tutorials and concept explanations
+- Live coding sessions and technical discussions
+
+---
+
+## 📖 Learning Resources
+
+Want to learn more about the MinMax algorithm and game AI? Check out these resources:
+
+### My Content
+- 📝 [Detailed Blog Post](https://levelup.gitconnected.com/step-by-step-guide-to-develop-tic-tac-toe-ai-with-blazor-b11c194aac6b) - Step-by-step guide with code examples
+- 🎥 [Video Tutorial](https://youtu.be/r_-Z6Zk4Hko?si=lFUh0A-_Oi-Bxwn3) - Watch me build this from scratch
+- 💻 [Source Code](https://github.com/RikamPalkar/TicTacToe) - This repository
+
+### Additional Resources
+- [Game Theory Basics](https://en.wikipedia.org/wiki/Game_theory)
+- [Alpha-Beta Pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) - Optimization of MinMax
+- [React Documentation](https://react.dev/)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
+
+---
+
+## 🎓 Educational Use
+
+This project is perfect for:
+
+- **Computer Science Students**: Understanding AI algorithms and game theory
+- **Web Developers**: Learning React, TypeScript, and modern web development
+- **Algorithm Enthusiasts**: Exploring decision-making algorithms
+- **Portfolio Projects**: Building impressive interactive applications
+
+Feel free to:
+- ⭐ Star this repository if you find it helpful
+- 🔨 Fork and modify for your own learning
+- 📝 Use it in your coursework (with proper attribution)
+- 🐛 Report bugs or suggest improvements
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/RikamPalkar/TicTacToe/issues).
+
+### How to Contribute
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** - feel free to use this project for learning and personal projects!
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rikampalkar.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikampalkar/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RikamPalkar)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@RikamPalkar)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqJ-tIcAuRqcuA0OZ1A3EVw)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rikam_cz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rikampalkar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Rikam/)
+[![C# Corner](https://img.shields.io/badge/C%23_Corner-239120?style=for-the-badge)](https://www.c-sharpcorner.com/members/rikam-palkar)
+[![Amazon Books](https://img.shields.io/badge/Amazon_Books-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://amzn.eu/d/bJZtOPK)
+
+</div>
+
+---
+
+## 💬 Feedback
+
+If you have any feedback, questions, or just want to say hi, please feel free to reach out!
+
+- 📧 Email: Available on [LinkedIn](https://www.linkedin.com/in/rikampalkar/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/rikampalkar/)
+- 🐦 Twitter: [@rikam_cz](https://twitter.com/rikam_cz)
+
+---
+
+<div align="center">
+
+**⭐ Star this repository if you found it helpful!**
+
+Made with ❤️ and ☕ by [Rikam Palkar](https://rikampalkar.github.io)
+
+*"The best way to predict the future is to create it."*
+
+</div>
