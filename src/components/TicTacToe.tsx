@@ -81,7 +81,7 @@ const TicTacToe = () => {
       <header className="game-header">
         <div className="header-content">
           <div className="home-icon">
-            <img src="/tictactoe-icon.svg" alt="Tic-Tac-Toe" />
+            <img src="tictactoe-icon.svg" alt="Tic-Tac-Toe" />
           </div>
           
           <div className="header-title-section">
@@ -91,7 +91,7 @@ const TicTacToe = () => {
           
           <div className="social-links">
             <a href="https://rikampalkar.github.io/" className="social-icon" target="_blank" rel="noreferrer" title="Portfolio">
-              <img src="/rikam-icon.svg" alt="Portfolio" style={{ width: '100%', height: '100%', borderRadius: '50%' }} />
+              <img src="rikam-icon.svg" alt="Portfolio" style={{ width: '100%', height: '100%', borderRadius: '50%' }} />
             </a>
             <a href="https://amzn.eu/d/bJZtOPK" className="social-icon" target="_blank" rel="noreferrer" title="Books">
               <i className="bi bi-book" />
