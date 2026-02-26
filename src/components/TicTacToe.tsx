@@ -129,24 +129,22 @@ const TicTacToe = () => {
         <div className="game-card">
           {/* Scoreboard */}
           <div className="scoreboard">
-            <div className="score-item player-score">
-              <span className="score-icon"><i className="bi bi-person-fill" /></span>
-              <div className="score-details">
-                <span className="score-label">You (X)</span>
+            <div className="score-labels">
+              <span className="score-label">You (X)</span>
+              <span className="score-label">Ties</span>
+              <span className="score-label">AI (O)</span>
+            </div>
+            <div className="score-values">
+              <div className="score-item player-score">
+                <span className="score-icon"><i className="bi bi-person-fill" /></span>
                 <span className="score-value">{scores.X}</span>
               </div>
-            </div>
-            <div className="score-item tie-score">
-              <span className="score-icon"><i className="bi bi-dash-circle" /></span>
-              <div className="score-details">
-                <span className="score-label">Ties</span>
+              <div className="score-item tie-score">
+                <span className="score-icon"><i className="bi bi-dash-circle" /></span>
                 <span className="score-value">{scores.ties}</span>
               </div>
-            </div>
-            <div className="score-item ai-score">
-              <span className="score-icon"><i className="bi bi-cpu" /></span>
-              <div className="score-details">
-                <span className="score-label">AI (O)</span>
+              <div className="score-item ai-score">
+                <span className="score-icon"><i className="bi bi-cpu" /></span>
                 <span className="score-value">{scores.O}</span>
               </div>
             </div>
